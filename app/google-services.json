@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "517838095599",
+    "firebase_url": "https://mycare-82ab2.firebaseio.com",
+    "project_id": "mycare-82ab2",
+    "storage_bucket": "mycare-82ab2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517838095599:android:ef050561727ea78800871a",
+        "android_client_info": {
+          "package_name": "com.ponto.ideal.solucoes.cuida_de_mim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "517838095599-8kb54r0lbv51dp3lfg2jhhp3ggc5bd46.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ponto.ideal.solucoes.cuida_de_mim",
+            "certificate_hash": "f5f4ce589e281aa99c79b5196ce401ea60bd9dfb"
+          }
+        },
+        {
+          "client_id": "517838095599-aji14l9cqdrcr5fs6lk2sbf77s3vnbrd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA9vhAaX3NCOpMJf9TH-HM8-bI1mFo2HaQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "517838095599-aji14l9cqdrcr5fs6lk2sbf77s3vnbrd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

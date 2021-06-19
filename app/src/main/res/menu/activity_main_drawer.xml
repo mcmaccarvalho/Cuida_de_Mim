@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_baseline_home_24"
+            android:title="@string/menu_home" />
+        <item
+            android:id="@+id/send_email"
+            android:icon="@drawable/ic_baseline_email_24"
+            android:title="@string/enviar_email" />
+        <item
+            android:id="@+id/deslogar"
+            android:icon="@drawable/ic_baseline_assignment_return_24"
+            android:title="@string/deslogar" />
+
+        <item
+            android:id="@+id/nav_sair"
+            android:icon="@drawable/ic_baseline_exit_to_app_24"
+            android:title="@string/sair" />
+    </group>
+</menu>

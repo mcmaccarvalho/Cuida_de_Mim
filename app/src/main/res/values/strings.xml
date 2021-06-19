@@ -1,0 +1,59 @@
+<resources>
+    <string name="app_name">Cuida de Mim</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="ponto_ideal">Ponto Ideal Soluções</string>
+    <string name="logar_com_google">Logar com Conta Google</string>
+    <string name="versenha">Ver Senha</string>
+    <string name="senha">Senha</string>
+    <string name="inserir_senha">Senha (8 caracteres - letras e numeros)</string>
+    <string name="e_mail">email</string>
+    <string name="esqueci_a_senha">Esqueci a senha</string>
+    <string name="logar_com_email">Logar com Conta de email</string>
+    <string name="fazer_cadastro">Fazer Cadastro</string>
+    <string name="cadastrar_por_e_mail">Cadastrar com email</string>
+    <string name="nome">Nome</string>
+    <string name="logar">Logar</string>
+    <string name="repetir_senha">Repetir Senha</string>
+    <string name="salvar">Salvar</string>
+    <string name="cancelar">Cancelar</string>
+
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="pressao_arterial_minima">Diastólica\n(Mínima)</string>
+    <string name="pressao_arterial_máxima">Sistólica\n(Máxima)</string>
+    <string name="pressao_maxima">Pressão Máxima</string>
+    <string name="pressao_minima">Pressão Mínima</string>
+    <string name="glicemia">Glicemia</string>
+    <string name="jejum">Jejum</string>
+    <string name="alimentado">Alimentado</string>
+    <string name="data">Data:</string>
+    <string name="hora">Hora:</string>
+    <string name="clique_para_alterar">(Clique para alterar)</string>
+    <string name="medicoes">Medições</string>
+    <string name="status">Stat</string>
+    <string name="tipo">Tipo</string>
+    <string name="deslogar">Deslogar</string>
+    <string name="sair">Sair</string>
+    <string name="coleta_efetuada">Coleta efetuada em:</string>
+    <string name="as">as</string>
+    <string name="dia">Dia:</string>
+    <string name="gerar">Gerar</string>
+    <string name="excluir">Excluir</string>
+    <string name="editar">Editar</string>
+    <string name="voltar">Voltar</string>
+    <string name="maxima">Máxima</string>
+    <string name="minima">Mínima</string>
+    <string name="excluir_coleta">Excluir Coleta</string>
+    <string name="confirmar_excluir">Esta ação não pode ser desfeita, os dados serão perdidos.\n\nClique em EXCLUIR ou CANCELAR</string>
+    <string name="enviar_email">Enviar por email</string>
+</resources>

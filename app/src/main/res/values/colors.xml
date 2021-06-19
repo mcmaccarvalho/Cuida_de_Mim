@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#396B33</color>
+    <color name="colorPrimaryDark">#396B33</color>
+    <color name="colorAccent">#FF0000</color>
+    <color name="fundo_verde_escuro">#1F6612</color>
+    <color name="branco">#FFFFFF</color>
+    <color name="teste">#FFAB00</color>
+    <color name="azul">#26418f</color>
+    <color name="azultab">#3C64D6</color>
+    <color name="tabazul">#00B8D4</color>
+    <color name="bkchome">#75EFF7F8</color>
+
+
+</resources>
